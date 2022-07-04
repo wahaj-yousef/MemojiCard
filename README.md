@@ -1,3 +1,5 @@
+!(js-icon)[MemojiSwiftUI/MemojiSwiftUI/Assets.xcassets/AppIcon.appiconset/512.png]
+
 # MemojiCard
 **Simple iOS App that Creates a Personal Card that contains the Name, phoneNo, email, interest as well as the Memoji, The card could be exported to the camera roll or shared it**
 
