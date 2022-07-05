@@ -9,5 +9,5 @@ The main idea was to be able to Access Memoji and save it as an image💡
 <br clear="left"/>
 The Demo of the App: 
 
-
+<video src="https://user-images.githubusercontent.com/77795477/177312958-d5546f34-eac6-42e0-81f7-c08948d9c17d.mov" width=80></video>
 🌱 the app still needs more features to be more user-friendly and fully completed.
